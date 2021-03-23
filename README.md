@@ -10,10 +10,15 @@ Step 1: finish course 2 in the deep learning specialisation
 
 Course 1:
 What is a neural network?
+
 Supervised Learning with Neural Networks
+
 Why is Deep Learning taking off?
+
 Binary Classification
+
 Logistic Regression
+
 Logistic Regression Cost Function
 Gradient Descent
 Derivatives
