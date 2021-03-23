@@ -15,7 +15,7 @@ Supervised Learning with Neural Networks
 
 Why is Deep Learning taking off?
 
-Binary Classification
+**Binary Classification**
 
 Logistic Regression
 
