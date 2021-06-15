@@ -20,42 +20,83 @@ Why is Deep Learning taking off?
 Logistic Regression
 
 Logistic Regression Cost Function
+
 Gradient Descent
+
 Derivatives
+
 More Derivative Examples
+
 Computation graph
+
 Derivatives with a Computation Graph
+
 Logistic Regression Gradient Descent
+
 Gradient Descent on m Examples
+
 Vectorization
+
 More Vectorization Examples
+
 Vectorizing Logistic Regression
+
 Vectorizing Logistic Regression's Gradient Output
+
 Broadcasting in Python
+
 note on python/numpy vectors
+
 Neural Networks Overview
+
 Neural Network Representation
+
 Computing a Neural Network's Output
+
 Vectorizing across multiple examples
+
 Explanation for Vectorized Implementation
+
 Activation functions
+
 Why do you need non-linear activation functions?
+
 Derivatives of activation functions
+
 Gradient descent for Neural Networks
+
 Backpropagation intuition
+
 Random Initialization
+
 Deep L-layer neural network
+
 Forward Propagation in a Deep Network
+
 Getting your matrix dimensions right
+
 Why deep representations?
+
 Building blocks of deep neural networks
+
 Forward and Backward Propagation
+
 Parameters vs Hyperparameters
+
+# Basic Questions
+
+What is a database?
+
+  - What are the differences between different databases?
+  - How are they set up?
+
+When is the best time to use AI tools and what are their limits?
+
 
 Other resources
 https://machinelearningmastery.com/machine-learning-tribe/
 
-Reading of how Neural Netwo
+Reading of how Neural Networks work
 http://neuralnetworksanddeeplearning.com/chap1.html
 http://neuralnetworksanddeeplearning.com/chap2.html
 http://neuralnetworksanddeeplearning.com/chap3.html
@@ -86,7 +127,11 @@ https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t
 Differential Equations Series
 https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&ab_channel=3Blue1Brown
 
+# Fundamental Learning Resources for base understanding of how CS and AI work
 
+Crash course in computers
+
+Crash course in AI
 
   
 What different models are out there and what are there strengths and weaknesses: Accrue different models as I go along
