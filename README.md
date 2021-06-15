@@ -8,6 +8,10 @@ This repository is to record my the process of learning, it is a working documen
 My Aim: Work My way through these headlines, writing notes for what I learn. 
 Step 1: finish course 2 in the deep learning specialisation
 
+Courses Completed
+
+Andrew Ng: Deep Learning Specialization
+
 Course 1:
 What is a neural network?
 
@@ -15,7 +19,7 @@ Supervised Learning with Neural Networks
 
 Why is Deep Learning taking off?
 
-**Binary Classification**
+Binary Classification
 
 Logistic Regression
 
@@ -44,8 +48,6 @@ Vectorizing Logistic Regression
 Vectorizing Logistic Regression's Gradient Output
 
 Broadcasting in Python
-
-note on python/numpy vectors
 
 Neural Networks Overview
 
@@ -83,18 +85,30 @@ Forward and Backward Propagation
 
 Parameters vs Hyperparameters
 
+
 # Basic Questions
 
 What is a database?
+A: A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
 
   - What are the differences between different databases?
   - How are they set up?
 
-When is the best time to use AI tools and what are their limits?
+When do you use what tools at what time?
+Different machine learning/AI/statsitic tools
+  - deep neural networks
+  - logistic regression
+  - reinforcement learning
+  - More fundamental statistics
+  
 
-
-Other resources
+Other resources or courses
+https://machinelearningmastery.com/
+  - Excellent resource for reading a lot of free content on ML step by step
 https://machinelearningmastery.com/machine-learning-tribe/
+
+Google Machine Learning Course: Free
+https://developers.google.com/machine-learning/crash-course/ml-intro
 
 Reading of how Neural Networks work
 http://neuralnetworksanddeeplearning.com/chap1.html
@@ -110,20 +124,18 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w&ab_channel=3Blue1Brown
 https://www.youtube.com/watch?v=Ilg3gGewQ5U&ab_channel=3Blue1Brown
 https://www.youtube.com/watch?v=tIeHLnjs5U8&ab_channel=3Blue1Brown
 
-When do you use what tools at what time?
-Different machine learning/AI tools
-  deep neural networks
-  logistic regression
-  reinforcement learning
-  More fundamental statistics
+
   
-  
-Basic Maths Learning
+## Basic Maths Learning
+
 3Brown1blue
+
 The Essence of Linear Algebra Series
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&ab_channel=3Blue1Brown
+
 The Essence of Calculus Series
 https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown
+
 Differential Equations Series
 https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&ab_channel=3Blue1Brown
 
