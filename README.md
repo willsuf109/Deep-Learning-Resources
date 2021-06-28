@@ -148,3 +148,8 @@ Crash course in AI
   
 What different models are out there and what are there strengths and weaknesses: Accrue different models as I go along
 
+# Other Key Learning Areas
+Git
+https://www.atlassian.com/git/tutorials 
+
+
