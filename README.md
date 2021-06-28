@@ -5,91 +5,18 @@ This repository is to record my the process of learning, it is a working documen
   2. Code for different NN, different architecture
   3. Ideas and areas for further exploration
 
-My Aim: Work My way through these headlines, writing notes for what I learn. 
-Step 1: finish course 2 in the deep learning specialisation
+
 
 Courses Completed
 
 Andrew Ng: Deep Learning Specialization
 
-Course 1:
-What is a neural network?
-
-Supervised Learning with Neural Networks
-
-Why is Deep Learning taking off?
-
-Binary Classification
-
-Logistic Regression
-
-Logistic Regression Cost Function
-
-Gradient Descent
-
-Derivatives
-
-More Derivative Examples
-
-Computation graph
-
-Derivatives with a Computation Graph
-
-Logistic Regression Gradient Descent
-
-Gradient Descent on m Examples
-
-Vectorization
-
-More Vectorization Examples
-
-Vectorizing Logistic Regression
-
-Vectorizing Logistic Regression's Gradient Output
-
-Broadcasting in Python
-
-Neural Networks Overview
-
-Neural Network Representation
-
-Computing a Neural Network's Output
-
-Vectorizing across multiple examples
-
-Explanation for Vectorized Implementation
-
-Activation functions
-
-Why do you need non-linear activation functions?
-
-Derivatives of activation functions
-
-Gradient descent for Neural Networks
-
-Backpropagation intuition
-
-Random Initialization
-
-Deep L-layer neural network
-
-Forward Propagation in a Deep Network
-
-Getting your matrix dimensions right
-
-Why deep representations?
-
-Building blocks of deep neural networks
-
-Forward and Backward Propagation
-
-Parameters vs Hyperparameters
+DATAQUEST
 
 
 # Basic Questions
 
-What is a database?
-A: A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
 
   - What are the differences between different databases?
   - How are they set up?
@@ -112,10 +39,15 @@ https://developers.google.com/machine-learning/crash-course/ml-intro
 
 Reading of how Neural Networks work
 http://neuralnetworksanddeeplearning.com/chap1.html
+
 http://neuralnetworksanddeeplearning.com/chap2.html
+
 http://neuralnetworksanddeeplearning.com/chap3.html
+
 http://neuralnetworksanddeeplearning.com/chap4.html
+
 http://neuralnetworksanddeeplearning.com/chap5.html
+
 http://neuralnetworksanddeeplearning.com/chap6.html
 
 3blue1Brown Visual Overviews of how Neural Networks work
@@ -143,10 +75,11 @@ https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTft
 
 Crash course in computers
 
+https://www.youtube.com/watch?v=O5nskjZ_GoI&list=PL-3OdKkMifdRWA5Wj9haYMd8f2QaGO8MG&index=15&t=199s
+
 Crash course in AI
 
-  
-What different models are out there and what are there strengths and weaknesses: Accrue different models as I go along
+https://www.youtube.com/user/crashcourse
 
 # Other Key Learning Areas
 Git
